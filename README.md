@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, You can call me SHUSHI</h1>
+<h1 align="center">Hi 👋, You can call me AE</h1>
 <h3 align="center">A newbie of developeR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushi1137&label=Profile%20views&color=0e75b6&style=flat" alt="shushi1137" /> </p>
